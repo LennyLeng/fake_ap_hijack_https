@@ -7,7 +7,7 @@
 - NetGear WG111v3 USB网卡
 
 ##网卡说明
-- 需要aircrack-ng兼容性良好系列网卡，具体详见http://www.aircrack-ng.org/doku.php?id=compatibility_drivers
+- 需要aircrack-ng兼容性良好系列网卡（具体详见http://www.aircrack-ng.org/doku.php?id=compatibility_drivers）
 - 网卡连入虚拟机时，需要选择桥接模式
 
 ##系统组件准备
