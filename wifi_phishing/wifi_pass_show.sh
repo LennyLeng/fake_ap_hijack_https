@@ -1,7 +1,7 @@
 #! /bin/bash
 
 cd sslsplit/logdir
-echo 'attacking by LengWeiLan....'
+echo 'attacking by Lenny....'
 sleep 3
 clear
 
