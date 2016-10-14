@@ -2,12 +2,13 @@
 搭建WiFi蜜罐进行HTTPS证书劫持获取WEB系统帐号密码
 
 ##准备
-1. VMware Workstation
-2. Kali VMware镜像
-3. NetGear WG111v3 USB网卡
+- VMware Workstation
+- Kali VMware镜像
+- NetGear WG111v3 USB网卡
 
 ##网卡说明
-需要aircrack-ng兼容性良好系列网卡，具体详见http://www.aircrack-ng.org/doku.php?id=compatibility_drivers
+- 需要aircrack-ng兼容性良好系列网卡，具体详见http://www.aircrack-ng.org/doku.php?id=compatibility_drivers
+- 网卡连入虚拟机时，需要选择桥接模式
 
 ##系统组件准备
 在Kali下需要安装isc_dhcp_server组件
