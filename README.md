@@ -57,3 +57,5 @@ range 192.168.123.10 192.168.123.100;
 ```
 ./wifi_show_pass.sh
 ```
+## 运行截图展示
+<img src="https://raw.githubusercontent.com/LennyLeng/fake_ap_hijack_https/master/run_screenshot.png">
