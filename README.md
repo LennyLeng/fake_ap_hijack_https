@@ -59,7 +59,7 @@ range 192.168.123.10 192.168.123.100;
 ./wifi_show_pass.sh
 ```
 ## 参考资料
-利用Kali进行WiFi钓鱼测试实战 - http://www.freebuf.com/articles/wireless/69840.html
-SSL中间人证书攻击测试演练 - http://www.freebuf.com/sectool/48016.html
+- 利用Kali进行WiFi钓鱼测试实战 - http://www.freebuf.com/articles/wireless/69840.html
+- SSL中间人证书攻击测试演练 - http://www.freebuf.com/sectool/48016.html
 ## 运行截图展示
 <img src="https://raw.githubusercontent.com/LennyLeng/fake_ap_hijack_https/master/run_screenshot.png">
