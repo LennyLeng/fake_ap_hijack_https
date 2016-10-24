@@ -8,7 +8,7 @@ clear
 while ((1))
 do
     clear
-    grep -R -e ".*acct_name=.*&password=.*"
-    grep -R -e ".*&user=.*&password=.*"
+    grep -h -R ".*user=.*password=.*" | cut -d "&" -f 2,7 --output-delimiter="     " | python ../../decode_url.py
+    grep -h -R ".*acct_name=.*password=.*" | cut -d "&" -f 1,2 --output-delimiter="     " | python ../../decode_url.py
     sleep 1
 done
